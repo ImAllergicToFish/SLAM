@@ -5,5 +5,5 @@ catkin_make
 ```
 2. Command for run: 
 ```
- roslaunch bot_navigation boot.launch
+ roslaunch bot_navigation boot.launch model:=waffle_pi
 ```
