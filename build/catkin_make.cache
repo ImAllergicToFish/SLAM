@@ -1,0 +1,2 @@
+bot_navigation
+-DCATKIN_DEVEL_PREFIX=/home/neleps/SLAM/devel -DCMAKE_INSTALL_PREFIX=/home/neleps/SLAM/install -G Unix Makefiles
